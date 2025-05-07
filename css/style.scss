@@ -100,8 +100,10 @@ body{
             display: flex;
             justify-content: space-between;
             color: #fff;
+            .item{
+                width: 33%;
+            }
             nav{
-                
                 a{
                     color: #fff;
                 }

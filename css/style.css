@@ -92,6 +92,9 @@ body footer .footer-inner {
   justify-content: space-between;
   color: #fff;
 }
+body footer .footer-inner .item {
+  width: 33%;
+}
 body footer .footer-inner nav a {
   color: #fff;
 }
