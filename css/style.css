@@ -49,7 +49,7 @@ body main section.main_visual_s .main_visual img {
 body main section.main_visual_s {
   width: 100%;
   height: 100vh;
-  background-image: url(../imags/main_visual.png);
+  background-image: url(../images/main_visual.png);
   background-size: cover;
   background-position: center top;
 }
@@ -76,7 +76,7 @@ body main section.fashion_style {
   padding: 5% 0 25%;
   height: auto;
   text-align: center;
-  background-image: url(../imags/fashion.png);
+  background-image: url(../images/fashion.png);
   background-size: cover;
   background-position: center top;
 }
