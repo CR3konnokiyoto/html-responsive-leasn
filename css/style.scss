@@ -95,6 +95,7 @@ body{
     }
     footer{
         background-color: #2a2a2a;
+        padding: 0 5%;
         .footer-inner{
             display: flex;
             justify-content: space-between;
@@ -106,5 +107,9 @@ body{
                 }
             }
         }
+    }
+    .copyright{
+        text-align: center;
+        padding: 2% 0;
     }
 }

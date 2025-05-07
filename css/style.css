@@ -85,6 +85,7 @@ body main section.catalog_antique .flex-item_reverse {
 }
 body footer {
   background-color: #2a2a2a;
+  padding: 0 5%;
 }
 body footer .footer-inner {
   display: flex;
@@ -93,4 +94,8 @@ body footer .footer-inner {
 }
 body footer .footer-inner nav a {
   color: #fff;
+}
+body .copyright {
+  text-align: center;
+  padding: 2% 0;
 }/*# sourceMappingURL=style.css.map */
